@@ -103,8 +103,8 @@ export default function Home() {
     const web3Provider = new providers.Web3Provider(provider);
     const { chainId } = await web3Provider.getNetwork();
     if (chainId !== 8453) {
-      window.alert("Change the network to Base Mainet");
-      throw new Error("Change network to Base Mainet");
+      window.alert("Change the network to ZetaChain Athens3 Testnet");
+      throw new Error("Change network to ZetaChain Athens3 Testnet");
     }
 
     if (needSigner) {
