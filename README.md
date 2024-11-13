@@ -1,6 +1,6 @@
 ## Base Genesis NFT User
 1. Create a new erc20 token using remix 
-2. Verify your contract
+2. Verify your contract on etherscan
 3. Submit contract for decoding via Dune
 4. Create a new repository based on this template for the Front-end.
 5. Change the TOKEN_CONTRACT_ADDRESS in constants/index.js to your newly token address.
