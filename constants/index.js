@@ -1,7 +1,7 @@
 export const TOKEN_CONTRACT_ADDRESS = "0xC8fae50A65A63a9F9d9C1AF757ce33ea506E42Ba";
 export const TOKEN_CONTRACT_ABI = [
 	{
-		"anonymous": true,
+		"anonymous": false,
 		"inputs": [
 			{
 				"indexed": true,
