@@ -13,4 +13,4 @@ https://base.mirror.xyz/hwNwqXHVoLlO8s4DZppog4DfGvM34tigaDjOWuEJQfY
 Connect deployer wallet to builder.base.org and complete the form (<2min)
 Do not deploy your front-end until our Mainnet GA launch in early August, when we open Base for everyone
 ```
-Feel free and ask your questions if you need help (contact me on social networks)
+Feel free and ask your questions if you need help
